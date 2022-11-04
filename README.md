@@ -34,3 +34,6 @@ If we want to see the GAN generted images then
 ![image](https://user-images.githubusercontent.com/99719105/199976701-99da098f-d3e4-449e-ba95-c59a9d6b65b1.png)
 
 ![image](https://user-images.githubusercontent.com/99719105/199976797-0be8955f-5c4c-4346-8358-7184a68f6e4d.png)
+
+
+Reference : Udemy tutorial on Deep learning by Jose Potilla
